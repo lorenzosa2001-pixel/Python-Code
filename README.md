@@ -1,4 +1,4 @@
-Here there are all my work with Python
+Here there are all my academic work with Python 
 
 File "Python code" Serie Storiche: Decoupling Ambientale in Italia (1997-2022).
 Analisi empirica della relazione tra Prodotto Interno Lordo e emissioni di CO_2.Metodologia: applicazione di tecniche di livellamento (Holt, Robert, Hunter) e test di stazionarietà ADF.
