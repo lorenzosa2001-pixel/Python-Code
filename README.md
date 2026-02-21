@@ -1,12 +1,17 @@
 Here there are all my academic work with Python 
 
-File "Python code" Serie Storiche: Decoupling Ambientale in Italia (1997-2022).
-Analisi empirica della relazione tra Prodotto Interno Lordo e emissioni di CO_2.Metodologia: applicazione di tecniche di livellamento (Holt, Robert, Hunter) e test di stazionarietà ADF.
-Modellizzazione: stima di trend lineari e modelli ARIMA per la verifica del disaccoppiamento strutturale.
-Risultati: evidenza di una riduzione sistematica delle emissioni a fronte di una crescita moderata del PIL
+File "Time_series_project": Decoupling GDP-Co2 Italy (1997-2022)
+Empirical analysis about relationship between GDP and Co2.
+Methodology: Application of smoothing techniques (Holt, Robert, Hunter) and ADF stationarity tests.
+Modeling: Estimation of linear trends and ARIMA models for the verification of structural decoupling.
+Results: Evidence of a systematic reduction in emissions against moderate GDP growth.
 
-File "Python_code_Tesi_Santarelli
-Simulazione di un mercato di oligopolio e concorrenza monopolistica: determinazione dell'investimento ottimo in diversi scenari di efficienza dei costi e differenziazione della qualità.Analisi: calcolo degli equilibri di prezzo, quantità e quote di mercato.Welfare: valutazione dell'impatto degli investimenti ESG sul benessere totale e sui profitti aziendali.
+File "Python_code_Tesi_Santarelli"
+Simulation of an oligopoly and monopolistic competition market: determination of optimal investment in different scenarios of cost efficiency and quality differentiation.
+Analysis: Calculation of price, quantity, and market share equilibria.Welfare: 
+Evaluation of the impact of ESG investments on total welfare and corporate profits.
 
-Analisi Dati: pandas, statsmodels, matplotlib.
-Simulazione: numpy, scipy.
+
+Technical Stack:
+Data Analysis: pandas, statsmodels, matplotlib.
+Simulation: numpy, scipy.
